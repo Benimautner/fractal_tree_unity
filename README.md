@@ -5,4 +5,4 @@ This neat little unity program can generate recursion trees where the user can s
 
 # Example:
 
-![Example tree image 1](tree.png)
+![Example tree image 1](tree.PNG)
